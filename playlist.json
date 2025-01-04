@@ -2,16 +2,21 @@
     {
         "name": "gentle",
         "streamURL": "https://www.youtube.com/watch?v=dR_3g5WCdHs",
-        "rainSpeed": "0.5"
+        "rainSpeed": "0.5",
+        "color": "#ADD8E6"
+    
+    
     },
     {
         "name": "medium",
         "streamURL": "https://www.youtube.com/watch?v=ieC6hvB1l0Y",
-        "rainSpeed": "1"
+        "rainSpeed": "1",
+        "color": "#A9A9A9"
     },
     {
         "name": "heavy",
         "streamURL": "https://www.youtube.com/watch?v=FyeVx6M0h18",
-        "rainSpeed": "1.5"
+        "rainSpeed": "1.5",
+        "color": "#708090"
     }
 ]
